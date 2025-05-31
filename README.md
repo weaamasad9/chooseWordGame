@@ -43,6 +43,6 @@ This game can be used by teachers in-class or by students independently to boost
 
 
 ## 📽️ Demo Video
-[![Watch the demo](https://img.icons8.com/ios-filled/50/000000/play-button-circled.png)](./demo.mp4)
-Click the image above or [click here](./demo.mp4) to view the demo video of the game.
+[▶️ Click here to watch the demo video](./demo.mp4)
+
 
